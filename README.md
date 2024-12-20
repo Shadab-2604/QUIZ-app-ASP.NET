@@ -116,3 +116,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Screenshots  
 
 _Add screenshots of your project to illustrate its functionality._  
+
+---
+
+Feel free to suggest enhancements or report issues by opening an issue in the repository. Happy coding!
+
